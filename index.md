@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+###  扫文小站
 
-You can use the [editor on GitHub](https://github.com/7LazyBear/7LazyBear.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+####  Q1扫文小站是什么
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🎉这是一个懒熊自用的【**原创** 】【**完结**】【**耽美**】扫文站
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+####  Q2扫文小站的目的
 
-```markdown
-Syntax highlighted code block
+🎉主要是**记录**和**分享**懒熊及小伙伴看过的文
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### Q3扫文小站能干嘛
 
-1. Numbered
-2. List
+🎉**扫文** ➕ **推文** ➕ **求文** 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+####  Q4扫文小站的优势
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+🐻一目了然的文章属性：
 
-### Jekyll Themes
+> 每一篇推文都由 **【视角】【推文者主观评分】【属性】【属性】【属性】（预警）（预警）** 组成，如果有单独想说的话，还可以在链接上方再次单独添加文字
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/7LazyBear/7LazyBear.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+🐻方便快捷的扫文专区：
 
-### Support or Contact
+> 懒熊会定期对推文专区进行整理，简单核实后，会通过属性将文章归类。这样小伙伴点进小站，就能快速锁定想看的元素然后翻找推文啦
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🐻众人平等的推文专区：
+
+> 在这里，所有的推文都是匿名、平等的。只要你的链接指向正确、能标明文章属性和预警，那就是一篇合格的推文，会被懒熊整理到扫文区。不会因为时间被埋没，也不会因为权限被藏到角落
+
+
+
+####  Q5扫文小站欢迎谁
+
+🎉每一位喜欢看【完结】【原创】【耽美】的读者
+
+🎉求同存异，有一颗包容的心（**推文有原则性和重大问题时例外，请及时在意见区反馈**）
+
+🎉可以添加推文的小伙伴！！！你也可以把小站当作你的原耽阅读记录库
+
+🎉欢迎各个平台的推文，包括不限于晋江、长佩、海棠、废文、寒武纪年、米国度、豆腐、火星女频、微博发表、论坛文等
+
+
+最后，懒熊扫文小站主要还是懒熊和她的小伙伴自用，我们不欢迎任何 **【墨香铜臭】的粉丝！粉丝！粉丝！**
+
+欢迎使用小站👉👉👉[懒熊扫文小站](http://qyx-7.ys168.com/)
